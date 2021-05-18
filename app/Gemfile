@@ -90,7 +90,7 @@ gem "figaro"
 gem "socialization", :git => 'https://github.com/union-software-cooperative/socialization.git'
 
 gem "faye-websocket"
-gem "puma", "~> 5.0.3"
+gem "puma", "~> 5.3.1"
 
 gem "exception_notification"
 
